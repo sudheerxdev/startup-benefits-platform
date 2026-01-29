@@ -64,6 +64,7 @@ User Interface Authorization Logic
 
 ### Claim
 - userId (reference → User)
+- 
 - dealId (reference → Deal)
 - status (pending | approved)
 - timestamps
