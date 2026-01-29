@@ -5,6 +5,8 @@
 This project is a full-stack **Startup Benefits Platform** designed to help early-stage startups, indie hackers, and small teams access **exclusive SaaS deals** that are otherwise expensive in the early phase.
 
 The platform clearly differentiates between:
+
+
 - **Public deals** (available to all users)
 - **Locked deals** (available only to verified users)
 
