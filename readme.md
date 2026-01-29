@@ -203,5 +203,7 @@ Secure authentication and authorization
 
 Thoughtful UI/UX and animation usage
 
+
+
 Clear architectural decision-making
 
